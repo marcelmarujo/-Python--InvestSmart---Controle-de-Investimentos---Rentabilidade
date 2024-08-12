@@ -26,3 +26,9 @@
 
 - **Detalhes do Investimento**: Obtenha informações completas sobre o valor final, o total investido e a rentabilidade.
 - **Gráfico Comparativo**: Veja gráficos claros que mostram como seu investimento se comporta em comparação com outras opções, facilitando a análise e a tomada de decisão.
+
+
+**Segue abaixo um exemplo de resultado. 
+Prognóstico da carteira de investimentos do Cliente X:**
+
+![Prognóstico da carteira de investimentos do Cliente X](
