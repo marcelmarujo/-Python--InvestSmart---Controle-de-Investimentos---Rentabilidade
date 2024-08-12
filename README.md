@@ -31,4 +31,4 @@
 **Segue abaixo um exemplo de resultado. 
 Prognóstico da carteira de investimentos do Cliente X:**
 
-![Prognóstico da carteira de investimentos do Cliente X](
+![Prognóstico da carteira de investimentos do Cliente X](https://github.com/marcelmarujo/-Python--InvestSmart---Controle-de-Investimentos---Rentabilidade/blob/main/Resultado%20-%20Progn%C3%B3stico%20de%20Carteira%20do%20Cliente%20X.png?raw=true)
