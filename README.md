@@ -1,6 +1,6 @@
 ## Visão Geral do Projeto
 
-**InvestSmart** é uma ferramenta que nos ajuda a entender como seu dinheiro pode crescer ao longo do tempo quando investido. Com ela, você pode calcular quanto seu investimento valerá no futuro, considerando o valor inicial, contribuições mensais e os juros ganhos.
+**InvestSmart** é um programa que nos ajuda a entender como seu dinheiro pode crescer ao longo do tempo quando investido. Com ela, você pode calcular quanto seu investimento valerá no futuro, considerando o valor inicial, contribuições mensais e os juros ganhos.
 
 ### Como Funciona
 
